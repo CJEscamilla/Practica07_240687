@@ -13,5 +13,5 @@ Este proyecto es una web que aplica las 4 operaciones básicas a una base de dat
 ![capturas 9](Practica07_240687/cap/edicion.png)
 ![capturas 10](Practica07_240687/cap/consulta.png)
 ![capturas 11](Practica07_240687/cap/bdconsulta.png)
-![capturas 12](Practica07_240687/cap/eliminacion.png)
+![capturas 12](Practica07_240687/cap/eliminancion.png)
 ![capturas 13](Practica07_240687/cap/eli.png)
