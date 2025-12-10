@@ -2,7 +2,7 @@
 Este proyecto es una web que aplica las 4 operaciones básicas a una base de datos, Creación (Create), Lectura (Read), Actualización (Update) y Eliminación (Delete) de registros a una tabla, utilizando HTML, CSS y JS para FrontEnd , PHP y MySQL cómo backend.
 
 # Capturas
-![capturas 1](cap/cap1.png)
+![capturas 1](Practica07_240687/cap/cap1.png)
 ![capturas 2](cap/cap2.png)
 ![capturas 3](cap/cap3.png)
 ![capturas 4](cap/cap4.png)
